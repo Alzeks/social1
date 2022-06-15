@@ -1,0 +1,8 @@
+//export const ADMIN_ROUTE = '/admin'
+export const LOGIN_ROUTE = '/login'
+export const REGISTRATION_ROUTE = '/registration'
+export const USERS_ROUTE = '/'
+export const CHAT_ROUTE = '/Chat'
+export const USER_ROUTE = '/User'
+export const NOTFOUND_ROUTE = '*'
+export const MYPAGE_ROUTE = '/myPage'
